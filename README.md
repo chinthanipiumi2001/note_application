@@ -15,8 +15,6 @@ Take a deep dive into the codebase, dissecting how each component contributes to
 🌐 **GitHub Repository:**
 The entire project is now available on my GitHub repository, open for collaboration and learning. Feel free to fork, clone, or contribute to the code. Let's build and learn together! 🤝🔗
 
-🔗 **GitHub Repository Link:**
-[Note App - Android Studio & Kotlin](insert-github-repo-link-here)
 
 📚 **Learn and Contribute:**
 Whether you're a seasoned developer or just starting with Android app development, this project provides valuable insights. Explore, learn, and contribute your ideas to make this Note App even better! 🚀🎓
