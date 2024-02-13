@@ -17,4 +17,4 @@ import androidx.room.PrimaryKey
   @PrimaryKey(autoGenerate = true)var id =0
 }
 //this is our entity
-//now let's create
+//now let's create dao to access data
