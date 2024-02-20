@@ -10,7 +10,7 @@ import androidx.room.RoomDatabase
 //we have create entity
 @Database([Notes::class], version =1, exportSchema = false)
 abstract class NotesDatabase:RoomDatabase(){
-    abstract fun getNoteDao(): Notes
+    abstract fun getNoteDao(): NotesDao
     //we will make a single instance of room database so it prevent multiple opening of database at same time
 
     companion object {
@@ -29,6 +29,13 @@ abstract class NotesDatabase:RoomDatabase(){
             }
         }
     }
+
+    // you can get this code from the project part we are following for this
+    //now lets create repository
+}
+
+class NotesDao {
+
 }
 
 
